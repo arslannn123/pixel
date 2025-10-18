@@ -194,3 +194,10 @@ h2 {
     width: 45%;
     height: 50%;
 }
+@media (max-width: 610px) {
+    .block_main{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}
