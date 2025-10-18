@@ -166,5 +166,9 @@ body{
         flex-direction: column;
         gap: 5px;
     }
-
+    .tools{
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
 }
